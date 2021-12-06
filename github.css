@@ -18,13 +18,17 @@ li, th {
   border-bottom: 5px solid #B30000;
   }
 
-  .navbar2 {
+  video {
+    margin: 10px;
+  }
+
+  .footer {
     border-top: 5px solid #B30000;
-    border-bottom: 5px solid #B30000;
     color: darkblue;
     }
 
 .pFooter {
+  border-bottom: 5px solid #B30000;
     text-align: center;
     color: black;
 }
