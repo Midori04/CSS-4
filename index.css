@@ -1,0 +1,40 @@
+
+
+li, th {
+    text-size-adjust: 10px;
+}
+
+
+  
+  li a:hover:not(.active) {
+    background-color: #ffffff;
+    color: #B30000;
+  }
+  
+  
+  .navbar {
+  border-top: 5px solid #B30000;
+  border-bottom: 5px solid #B30000;
+  }
+
+  .navbar2 {
+    border-top: 5px solid #B30000;
+    border-bottom: 5px solid #B30000;
+    color: darkblue;
+    }
+
+.pFooter {
+    text-align: center;
+    color: black;
+}
+
+.aHeader {
+  padding: 10px;
+  text-decoration: none;
+  color:grey;
+}
+
+.aHeader:hover {
+color: darkred;
+}
+
