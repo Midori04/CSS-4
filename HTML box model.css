@@ -11,13 +11,14 @@ li, th {
   
   
   .navbar {
+    padding: 10px;
   border-top: 5px solid #B30000;
   border-bottom: 5px solid #B30000;
   }
 
-  .navbar2 {
-    border-top: 5px solid #B30000;
-    border-bottom: 5px solid #B30000;
+footer {
+    border-top: 1px solid #B30000;
+    border-bottom: 1px solid #B30000;
     color: darkblue;
     }
 
@@ -36,17 +37,32 @@ li, th {
 color: darkred;
 }
 
-.pClass {
-    background-color:lightsteelblue;
-    color:#009990;
-    height: 50px;
-    width: 300px;
-    padding: 20px;
-    margin: 20px;
-    border: 15px solid lime;
-    text-align: center;  
+
+
+
+.div1 {
+  margin: 10px;
+  background-color: lightgray;
+  width: 300px;
 }
 
-.spanClass {
-    color: black;
+.div2 {
+  padding: 10px;
+  border: 10px solid lime;
 }
+
+.div3 {
+  padding: 10px ;
+  border: 20px solid white;
+}
+
+.div4 {
+  padding: 10px;
+  text-align: center;
+  color: #009990;
+}
+
+.div5 {
+  color: black;
+}
+

@@ -4,6 +4,7 @@ li a:hover:not(.active) {
   }
   
   .navbar {
+    padding: 10px;
   border-top: 5px solid #B30000;
   border-bottom: 5px solid #B30000;
   }
